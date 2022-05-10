@@ -30,7 +30,7 @@
 3) __Jewellery__
 - HTML, CSS, Sass, BEM, Gulp, Java Script, Кроссбраузерность: Chrome, Firefox, Safari.
 - «Jewellery» — лаконичный интернет-магазин ювелирных украшений. Имеет мобильную, планшетную и десктопную версию. Выполнены принципы адаптивности, переполнения контентом и Pixel Perfect.   
-- Ссылка на проект
+- https://627a3451de7c136c43869bce--zingy-douhua-fb2be7.netlify.app
 
 4) __Smart device__
 - HTML, CSS, Sass, BEM, Gulp, Java Script, Кроссбраузерность: Chrome, Firefox, Safari.
