@@ -35,7 +35,7 @@
 4) __Smart device__
 - HTML, CSS, Sass, BEM, Gulp, Java Script, Кроссбраузерность: Chrome, Firefox, Safari.
 - «Smart device» — сайт-визитка производства электронных комплектующих. Имеет мобильную, планшетную и десктопную версию. Выполнены принципы адаптивности, переполнения контентом и Pixel Perfect.   
-- Ссылка на проект
+- https://famous-pony-73e04d.netlify.app
 
 5) __Farm Shop__
 - SPA, React, организацией стилей в React, подход CSS-in-JS, Storybook
