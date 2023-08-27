@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-:woman_technologist: My name is Daria and I`m a junior frontend developer.
+:woman_technologist: My name is Daria and I`m a frontend developer.
 
 + I love create adaptive and user-friendly web sites and apps by using responsive interface design principles.
 + I am really into professional styling, responsive and mobile design, web accessibility combined with React development.
