@@ -14,6 +14,7 @@
 | Project Repo | Demo | Description | Stack
 | -- | -- | -- | -- |
 | [Next JS ChatGPT clone with Next.JS & OpenAI](https://github.com/dliferova/nextjs-chatgpt) | [Live Demo]() |  "Chatty Pete" is a powerful chatbot with the same capabilities as ChatGPT, that uses Next.js v13, OpenAI's GPT API, Next JS edge functions to stream chat responses, MongoDB for data storage, Auth0 for user authentication and user accounts, and Tailwind CSS for beautiful layouts and styling | Next JS, Tailwind CSS, MongoDB, Auth0, OpenAI, Vercel
+| [React Testing Library]() | [Live Demo]() | Pet project for using React testing Library | React, Type Script, React Testing Library, Formik, Vitest
 | [M.Mind Gallery](https://github.com/dliferova/advanced-grid-case) | [Live Demo](https://main--tubular-hamster-122d12.netlify.app) | "M.Mind" image store catalog is an educational project aimed at practicing the use of grids to create a stock photo gallery | HTML, CSS, Vite
 
 
