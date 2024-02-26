@@ -6,7 +6,7 @@
 
 My name is Daria and I`m a frontend developer
 
-✅ 1,5+ уears experience React and React Ecosystem
+✅ 1,5+ уears experience with Web and React Ecosystem
 
 ✅ large experience of styling web applications
 
