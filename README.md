@@ -8,7 +8,7 @@ My name is Daria and I`m a frontend developer
 
 ✅ 1,5+ уears experience with Web and React Ecosystem
 
-✅ large experience of styling web applications
+✅ large experience of web applications styling
 
 ✅ staying up-to-date with the latest trends in web development
 
