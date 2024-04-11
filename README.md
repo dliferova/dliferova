@@ -51,6 +51,8 @@ I take pride in my ability to not only create functional React components but al
 | [Jewellery](https://github.com/dliferova/liferova-jewellery-10) | [Live Demo](https://zingy-douhua-fb2be7.netlify.app) | Jewellery is a concise online jewelry store. It has a mobile, tablet and desktop versions. The principles of adaptability, overflow of content and Pixel Perfect are fulfilled. [Show more ditails](https://dliferova.notion.site/Jewellery-c9e2fd703e3849e3ae6bc8a4d76bfab4)
 | [M.Mind Gallery](https://github.com/dliferova/advanced-grid-case) | [Live Demo](https://main--tubular-hamster-122d12.netlify.app) | "M.Mind" image store catalog is an educational project aimed at practicing the use of grids to create a stock photo gallery
 | [Smart Device](https://github.com/dliferova/liferova-smart-device-10) | [Live Demo](https://famous-pony-73e04d.netlify.app) | Smart device is a business card website for the production of electronic components. It has a mobile, tablet and desktop version. The principles of adaptability, overflow of content and Pixel Perfect are fulfilled
+| [Workit Landing](https://github.com/dliferova/workit-landing-page) | [Live Demo](https://main--regal-twilight-5d736a.netlify.app) | Responsive landing for presenting the product that the company is working on. 
+
 
 ### :inbox_tray: My contacts
 
