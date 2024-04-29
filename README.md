@@ -38,9 +38,9 @@ I embrace challenges and continuously seek to expand my skill set. I enjoy the d
 
 | Repo | Demo | Description | Stack
 | ------------ | ---- | ----------- | ---- |
-| [Delivery order](https://github.com/dliferova/delivery-app) | Live Demo | The page allows you to choose the delivery method (pickup or city courier delivery), city, address, delivery date and time, select a payment method, and enter customer information (phone number and card details) | React, TypeScript, Formik, Tailwind, React Leaflet, Vite
-| [React Testing Library](https://github.com/dliferova/react-testing-library) | [Live Demo](https://extraordinary-sherbet-c27c60.netlify.app) | Pet project for using React testing Library | React, TypeScript, React Testing Library, Formik, Vitest, Ant Design
-| [Next JS ChatGPT clone with Next.JS & OpenAI](https://github.com/dliferova/nextjs-chatgpt) | Live Demo |  "Chatty Pete" is a powerful chatbot with the same capabilities as ChatGPT, that uses Next.js v13, OpenAI's GPT API, Next JS edge functions to stream chat responses, MongoDB for data storage, Auth0 for user authentication and user accounts, and Tailwind CSS for beautiful layouts and styling | Next JS, Tailwind CSS, MongoDB, Auth0, OpenAI, Vercel
+| [React Testing Library](https://github.com/dliferova/react-testing-library) | [Live Demo](https://extraordinary-sherbet-c27c60.netlify.app) | Form for using React testing Library | React, TypeScript, React Testing Library, Formik, Vitest, Ant Design
+| [Delivery order](https://github.com/dliferova/delivery-app) | ⚙️ | The page allows you to choose the delivery method (pickup or city courier delivery), city, address, delivery date and time, select a payment method, and enter customer information (phone number and card details) | React, TypeScript, Formik, Tailwind, React Leaflet, Vite
+| [Next JS ChatGPT clone with Next.JS & OpenAI](https://github.com/dliferova/nextjs-chatgpt) | ⚙️ |  "Chatty Pete" is a powerful chatbot with the same capabilities as ChatGPT, that uses Next.js v13, OpenAI's GPT API, Next JS edge functions to stream chat responses, MongoDB for data storage, Auth0 for user authentication and user accounts, and Tailwind CSS for beautiful layouts and styling | Next JS, Tailwind CSS, MongoDB, Auth0, OpenAI, Vercel
 
 ### :dizzy: Adaptive design and styling
 
